@@ -81,6 +81,14 @@ const system: AppRouteModule = {
       },
       component: () => import('@/views/demo/system/password/index.vue'),
     },
+    {
+      path: 'flowChart',
+      name: 'flowChartDemo',
+      component: () => import('@/views/demo/system/flow-chart/index.vue'),
+      meta: {
+        title: t('routes.demo.flow.flowChart'),
+      },
+    },
   ],
 };
 

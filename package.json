@@ -1,6 +1,6 @@
 {
-  "name": "vben-admin",
-  "version": "2.10.1",
+  "name": "smart-ms",
+  "version": "0.0.1",
   "homepage": "https://github.com/thewangzl/smart-ms",
   "bugs": {
     "url": "https://github.com/thewangzl/smart-ms/issues"
@@ -11,9 +11,9 @@
   },
   "license": "MIT",
   "author": {
-    "name": "vben",
-    "email": "anncwb@126.com",
-    "url": "https://github.com/anncwb"
+    "name": "thewangzl",
+    "email": "thewangzl@sina.cn",
+    "url": "https://github.com/thewangzl"
   },
   "type": "module",
   "scripts": {
